@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coderwally, a software engineer with 20+ yrs experience in IT
-- 👀 I’m interested in blockchain and web3
+- 👀 I’m interested in and fascinated by blockchain and web3 (and 💜 defi)
 - 🌱 I’m currently learning Solidity
 - 👨‍🎓 Graduated @LearnWeb3DAO Freshman/Sophomore/Junior tracks
 - 💞️ I’m looking to collaborate on blockchain and web3 technologies
