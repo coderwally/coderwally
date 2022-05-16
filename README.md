@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on blockchain and web3 technologies
 - 👨‍💼 Feel free to hit me up with job offers for dev positions
 - 📧 You can reach me by email: 0c57789d-2ec1-4d32-9c80-7ea403f63a1b@anonaddy.me
+- 🐦 My twitter profile: https://twitter.com/traderwally7
+
 
 <!---
 coderwally/coderwally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
