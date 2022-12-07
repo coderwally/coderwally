@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderwally, a software engineer with 20+ yrs experience in IT
+- 👋 Hi, I’m @coderwally, a software engineer with 23+ yrs experience in enterprise software development
 - 👀 I’m interested in and fascinated by blockchain and web3 (and 💜 defi)
 - 👨‍🎓 Graduated @LearnWeb3DAO tracks (Freshman/Sophomore/Junior/Senior)
 - 🌱 I’m currently building with Javascript, Typescript, Solidity, ReactJS and NextJS
