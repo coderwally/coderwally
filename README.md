@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @coderwally, a software engineer with 20+ yrs experience in IT
 - 👀 I’m interested in and fascinated by blockchain and web3 (and 💜 defi)
-- 🌱 I’m currently learning more about Solidity, ReactJS and NextJS
-- 👷‍♂️ Working on Buildspace projects
-- 👨‍🎓 Graduated all @LearnWeb3DAO tracks (Freshman/Sophomore/Junior/Senior)
+- 👨‍🎓 Graduated @LearnWeb3DAO tracks (Freshman/Sophomore/Junior/Senior)
+- 🌱 I’m currently building with Javascript, Typescript, Solidity, ReactJS and NextJS
+- 👷‍♂️ Member of @developer_dao
+- 🦄 Working on Buildspace projects
 - 💞️ I’m looking to collaborate on blockchain and web3 technologies
 - 👨‍💼 Feel free to hit me up with job offers for dev positions
 - 🐦 My twitter profile: https://twitter.com/traderwally7
